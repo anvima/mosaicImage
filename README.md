@@ -1,5 +1,5 @@
 # mosaicImage
-Turns an image into a mosaic version with a limited selection of colours
+*Turns an image into a mosaic version with a limited selection of colours*
 
 Family members of mine requested some ideas for abstract art. They wanted to use pieces of felt as acoustic insulation, but wanted it to look nice. 
 
