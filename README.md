@@ -21,6 +21,8 @@ User options:
 - should the constrast of the input image be increased? (advisable for most images)
 - scale factor: How large should the resulting pixels be? High scale factor = higher level of abstraction (fewer/larger pixels). 
 
+*Small cluster-feature:*
+
 Note that the amount of final colours the resulting image consists of may potentially be larger than the amount selected. This may happen due to a feature of the program. In general, for selecting the n dominant colours, the program applies kmeans clustering and picks one colour per cluster (the centroid). Through the implemented feature, it then additionally it looks at the sizes of the individual clusters. If a cluster is very small (holds < 3% of instances), the program selectes more than one colour for this cluster. It does this to produce depth in small colour areas: For example, if there is just one small area of an image that consists of shades of blue, "blue" would most probably form just one cluster -> one shade of blue in the final image. Consequently, the one small blue area would look flat. The program circumvents this issue with the additional colour selection. Example: 
 
 Snippet of original image           | Snippet of pixelated image with simplified colours     
