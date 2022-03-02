@@ -10,3 +10,5 @@ Selecting the n dominant colours was achieved via kmeans clustering, as normal m
 Every colour of the pixelated version of the original image is then replaced by the dominant colour matching it most closely. 
 
 My program produces additional outputs: An overview-colour palette with the percentages at which a given colour is occurring in the final image, and a table showing how many “pixels” are coloured in each of the n final colours. The latter can now be used to buy the right amount of fabric per dominant colour.
+
+![blaumeise_simplified-colours_contrast-inc](https://user-images.githubusercontent.com/53763279/156420599-0961ff14-f67d-43a2-afb5-f628f2d3347b.jpg)
