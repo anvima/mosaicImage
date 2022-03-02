@@ -27,4 +27,4 @@ Snippet of original image           | Snippet of pixelated image with simplified
 :----------------------------------:|:-----------------------------------------------------:
 <img src="https://user-images.githubusercontent.com/53763279/156447009-59f63d87-94e5-4769-9746-95563942e5c5.png" height="200" > | <img src="https://user-images.githubusercontent.com/53763279/156447043-f1dc30b9-ef6f-458a-a180-4eff7b00a0d6.png" height="200" > 
 
-
+This snippet is part of a larger image with only this small blue area. Without the small cluster-feature, just one shade of blue (and one shade of yellow) would have been part of the final result. 
