@@ -1,9 +1,9 @@
 # mosaicImage
 *Turns an image into a mosaic version with a limited selection of colours*
 
-Family members of mine requested some ideas for abstract art. They wanted to use pieces of felt as acoustic insulation, but wanted it to look nice. 
+Family members of mine requested some ideas for abstract art which would double as acoustic insulation. Their only prerequisite was to use colourful felt/fabric on the piece. 
 
-I had an idea and developed a program that would not only pixelate a given image, but reduce its colours to only n few dominant ones. This was necessary due to fabric (and especially felt) coming in a limited colour range. 
+I had an idea and developed a program that would not only pixelate a given image, but reduce its colours to only the n dominant ones. This was necessary due to fabric (and especially felt) coming in a limited colour range. 
 
 Selecting the n dominant colours was achieved via kmeans clustering, as normal methods to derive dominant colours were prone to miss colours that were rare but vital to an image (like the tiny yellow beak of a bird). 
 
