@@ -11,4 +11,9 @@ Every colour of the pixelated version of the original image is then replaced by 
 
 My program produces additional outputs: An overview-colour palette with the percentages at which a given colour is occurring in the final image, and a table showing how many “pixels” are coloured in each of the n final colours. The latter can now be used to buy the right amount of fabric per dominant colour.
 
-![blaumeise_simplified-colours_contrast-inc](https://user-images.githubusercontent.com/53763279/156420599-0961ff14-f67d-43a2-afb5-f628f2d3347b.jpg)
+Original image           | Pixelated image with simplified colours
+:-----------------------:|:-----------------------------------------------
+![pinkflowers](https://user-images.githubusercontent.com/53763279/156440543-2a3710ce-6467-4b5a-8daf-d7da86e2e4c4.JPG) | ![pinkflowers_simplified-colours](https://user-images.githubusercontent.com/53763279/156440552-49313705-84f2-46ba-bf6f-bd62197e6fce.jpg)
+
+![pinkflowers_palette](https://user-images.githubusercontent.com/53763279/156440567-afb4a6e3-293a-408e-b319-e2f7a13ac621.jpg)
+
