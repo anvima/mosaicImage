@@ -5,7 +5,7 @@ Family members of mine requested some ideas for abstract art which would double 
 
 I had an idea and developed a small program that would not only pixelate a given image, but reduce its colours to only the n dominant ones. This was necessary due to fabric (and especially felt) coming in a limited colour range. 
 
-Selecting the n dominant colours was achieved via kmeans clustering, as normal methods to derive dominant colours were prone to miss colours that were rare but vital to an image (like the tiny yellow beak of a bird). 
+Selecting the n dominant colours was achieved via kmeans clustering, as common methods to derive dominant colours were prone to miss colours that were rare but vital to an image (like the tiny yellow beak of a bird). 
 
 Every colour of the pixelated version of the original image is then replaced by the dominant colour matching it most closely. 
 
