@@ -13,7 +13,7 @@ My program produces additional outputs: An overview-colour palette with the perc
 
 Original image           | Pixelated image with simplified colours      |  Colour palette 
 :-----------------------:|:----------------------------------------------:|:---------------:
-<img src="https://user-images.githubusercontent.com/53763279/156440543-2a3710ce-6467-4b5a-8daf-d7da86e2e4c4.JPG" height"300" > | <img src="https://user-images.githubusercontent.com/53763279/156440552-49313705-84f2-46ba-bf6f-bd62197e6fce.jpg" height="300" > | <img src="https://user-images.githubusercontent.com/53763279/156440567-afb4a6e3-293a-408e-b319-e2f7a13ac621.jpg" height="300" >
+<img src="https://user-images.githubusercontent.com/53763279/156440543-2a3710ce-6467-4b5a-8daf-d7da86e2e4c4.JPG" height="300" > | <img src="https://user-images.githubusercontent.com/53763279/156440552-49313705-84f2-46ba-bf6f-bd62197e6fce.jpg" height="300" > | <img src="https://user-images.githubusercontent.com/53763279/156440567-afb4a6e3-293a-408e-b319-e2f7a13ac621.jpg" height="300" >
 
 User options: 
 - input image (title)
